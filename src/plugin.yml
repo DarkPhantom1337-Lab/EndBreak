@@ -1,0 +1,6 @@
+name: EndBreak
+version: 1.0.0
+author: DarkPhantom1337
+description: EndBreak plugin for version 1.15.2-1.16.3
+main: ua.darkphantom1337.endbreak.Main
+api-version: 1.13
